@@ -1,0 +1,33 @@
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore build directories
+dist/
+build/
+# Ignore virtual environment directory
+trader/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore compiled files
+*.out
+*.class
+*.o
